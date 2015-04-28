@@ -1,2 +1,2 @@
 add_lunch_combo hazy_jfltexx-eng
-
+add_lunch_combo hazy_jfltexx-userdebug
